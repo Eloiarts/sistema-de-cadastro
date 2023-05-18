@@ -2,4 +2,4 @@ console.log("Rodando o sistema de gerenciamento de jogos")
 console.log("Aplicando está se conectando ao banco de dados")
 console.log("Mais um conectado")
 console.log("Enviando para o terminal")
-
+console.log("novo terminal")
